@@ -1,9 +1,9 @@
 let resumeData = {
-  "imagebaseurl":"https://techonoeticsclub.github.io/",
+  "imagebaseurl":"https://tekylo.github.io/",
   "name": "John Doe",
   "role": "Frontend Developer",
   "linkedinId":"Your LinkedIn Id",
-  "skypeid": "Your skypeid",
+  "skypeid": "Yourº skypeid",
   "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
   "socialLinks":[
       {
