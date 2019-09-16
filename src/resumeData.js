@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl":"https://tekylo.github.io/",
+  "imagebaseurl":"https://tekylo.github.io/porfolio",
   "name": "John Doe",
   "role": "Frontend Developer",
   "linkedinId":"Your LinkedIn Id",
